@@ -21,9 +21,17 @@
 </p>
 
 <h3>Connect with me on</h3>
-<a href="https://www.linkedin.com/in/brian-phair/" target="_blank" rel=”noopener noreferrer”>
-  <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-61DAFB?style=flat&logo=LinkedIn&logoColor=white&color=0077B5"/>
-<a>
+<p>
+  <a href="https://www.linkedin.com/in/brian-phair/"/>
+    <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-61DAFB?style=flat&logo=LinkedIn&logoColor=white&color=0077B5"/>
+  <a>
+  <a href="https://www.brianphair.com/"/>
+    <img alt="Personal Site" src="https://img.shields.io/badge/-Personal%20Site-important" />
+  <a>
+  <a href="https://apps.apple.com/us/developer/brian-phair/id1448661584"/>
+  <img alt="App Store" src="https://img.shields.io/badge/-App_Store-61DAFB?style=flat&logo=app-store&logoColor=white&color=0D96F6"/>
+  <a>
+</p>
 <!--
 **bsphair/bsphair** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
