@@ -18,7 +18,7 @@
   <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-61DAFB?style=flat&logo=mysql&logoColor=white&color=4479A1"/>
   <img alt="Jest" src="https://img.shields.io/badge/-Jest-61DAFB?style=flat&logo=jest&logoColor=white&color=C21325"/>
   <img alt="Webstorm" src="https://img.shields.io/badge/-Webstorm-61DAFB?style=flat&logo=webstorm&logoColor=white&color=000000"/>
-  <img alt="AWS" src="https://img.shields.io/badge/-AWS-61DAFB?style=flat&logo=aws&logoColor=white&color=232F3E"/>
+  <img alt="AWS" src="https://img.shields.io/badge/-AWS-61DAFB?style=flat&logo=amazon-aws&logoColor=white&color=232F3E"/>
   <img alt="NPM" src="https://img.shields.io/badge/-NPM-61DAFB?style=flat&logo=npm&logoColor=white&color=CB3837"/>
   <img alt="Yarn" src="https://img.shields.io/badge/-Yarn-61DAFB?style=flat&logo=yarn&logoColor=white&color=2C8EBB"/>
   <img alt="Slack" src="https://img.shields.io/badge/-Slack-61DAFB?style=flat&logo=slack&logoColor=white&color=4A154B"/>
