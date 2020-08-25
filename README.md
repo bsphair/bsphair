@@ -29,8 +29,8 @@
 
 <h3>Stats</h3>
 <p>
-  <img width="49%" height="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bsphair&layout=compact&hide_title=1&card_width=300" alt="Top language used in my repos" />
-  <img width="49%" height="300px" src="https://github-readme-stats.vercel.app/api?username=bsphair&show_icons=true&count_private=true" alt="bsphair" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bsphair&layout=compact&hide_title=1&card_width=300" alt="Top language used in my repos" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=bsphair&show_icons=true&count_private=true" alt="bsphair" />
 </p>
 
 <h3>Connect with me on</h3>
