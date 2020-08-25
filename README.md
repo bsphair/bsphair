@@ -26,6 +26,13 @@
   <img alt="Material UI" src="https://img.shields.io/badge/-Material_UI-61DAFB?style=flat&logo=material-ui&logoColor=white&color=0081CB"/>
 </p>
 
+
+<h3>Stats</h3>
+<p>
+  <img width="49%" height="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bsphair&layout=compact&hide_title=1&card_width=300" alt="Top language used in my repos" />
+  <img width="49%" height="300px" src="https://github-readme-stats.vercel.app/api?username=bsphair&show_icons=true&count_private=true" alt="bsphair" />
+</p>
+
 <h3>Connect with me on</h3>
 <p>
   <a href="https://www.linkedin.com/in/brian-phair/"/>
@@ -38,18 +45,4 @@
   <img alt="App Store" src="https://img.shields.io/badge/-App_Store-61DAFB?style=flat&logo=app-store&logoColor=white&color=0D96F6"/>
   <a>
 </p>
-<!--
-**bsphair/bsphair** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-👋
--->
+    
