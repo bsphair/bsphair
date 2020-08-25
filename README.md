@@ -1,5 +1,7 @@
 ## Hello, I'm Brian
 
+:necktie: Occuration is <b>software engineer</b>
+
 :round_pushpin: I'm currently located in <b>Gaithersburg, MD</b>
 
 :telescope: My current <b>personal project</b> is an [Exercise Dashboard](https://github.com/bsphair/peloton_client)
@@ -29,9 +31,10 @@
 
 <h3>Stats</h3>
 <p>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bsphair&layout=compact&hide_title=1&card_width=300" alt="Top language used in my repos" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=bsphair&show_icons=true&count_private=true" alt="bsphair" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bsphair&layout=compact&hide_title=1&card_width=300&theme=radical" alt="Top language used in my repos" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=bsphair&show_icons=true&count_private=true&theme=radical" alt="bsphair" />
 </p>
+NOTE: Top languages does not indicate my skill level, it's a metric of which languages I have the most code on github and is a new feature of github-readme-stats.
 
 <h3>Connect with me on</h3>
 <p>
