@@ -1,4 +1,10 @@
-### Hi there 👋
+## Hello, I'm Brian
+
+:round_pushpin: I'm currently located in <b>Gaithersburg, MD</b>
+
+:telescope: My current <b>personal project</b> is an [Exercise Dashboard](https://github.com/bsphair/peloton_client)
+
+:blue_book: Check out my complete <b>resume</b> on [LinkedIn](https://www.linkedin.com/in/brian-phair/)
 
 <h3>Tech Stack</h3>
 <p>
@@ -45,4 +51,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+👋
 -->
