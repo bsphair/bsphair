@@ -35,7 +35,7 @@
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bsphair&layout=compact&hide_title=1&card_width=300&theme=radical" alt="Top language used in my repos" />
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=bsphair&show_icons=true&count_private=true&theme=radical" alt="bsphair" />
 </p>
-NOTE: Top languages does not indicate my skill level, it's a metric of which languages I have the most code on github and is a new feature of github-readme-stats.
+NOTE: Top languages does not indicate my skill level, it's a metric of which languages I have the most code on github.
 
 <h3>Connect with me on</h3>
 <p>
