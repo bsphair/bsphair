@@ -1,6 +1,6 @@
 ## Hello, I'm Brian
 
-:necktie: Occuration is <b>software engineer</b>
+:necktie: Occupation is <b>software engineer</b>
 
 :round_pushpin: I'm currently located in <b>Gaithersburg, MD</b>
 
