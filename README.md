@@ -15,6 +15,7 @@
 <h4>Languages</h4>
 <p>
   <img alt="HTML" src="https://img.shields.io/badge/-HTML-61DAFB?style=flat&logo=html5&logoColor=white&color=E34F26" />
+  <img alt="CSS" src="https://img.shields.io/badge/-CSS-61DAFB?style=flat&logo=css&logoColor=white&color=E34F26" />
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-61DAFB?style=flat&logo=javascript&logoColor=white&color=yellow" />
   <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-61DAFB?style=flat&logo=mysql&logoColor=white&color=4479A1" />
 </p>
