@@ -2,9 +2,9 @@
 
 :necktie: Occupation is <b>software engineer</b>
 
-:round_pushpin: I'm currently located in <b>Gaithersburg, MD</b>
+:round_pushpin: Located around <b>Gaithersburg, MD</b>
 
-:telescope: My current <b>personal project</b> is an [Exercise Dashboard](https://github.com/bsphair/peloton_client)
+:telescope: Current <b>personal project</b> is an [Exercise Dashboard](https://github.com/bsphair/peloton_client)
 
 :pencil2: Occassional author on [Medium](https://bsphair.medium.com/)
 
