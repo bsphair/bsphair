@@ -17,6 +17,7 @@
   <img alt="HTML" src="https://img.shields.io/badge/-HTML-61DAFB?style=flat&logo=html5&logoColor=white&color=E34F26" />
   <img alt="CSS" src="https://img.shields.io/badge/-CSS-61DAFB?style=flat&logo=css&logoColor=white&color=E34F26" />
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-61DAFB?style=flat&logo=javascript&logoColor=white&color=yellow" />
+  <img alt="Python" src="https://img.shields.io/badge/-Python-61DAFB?style=flat&logo=python&logoColor=white&color=blue" />
   <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-61DAFB?style=flat&logo=mysql&logoColor=white&color=4479A1" />
 </p>
 
@@ -25,6 +26,7 @@
   <img alt="React" src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white&color=61DAFB" />
   <img alt="Redux" src="https://img.shields.io/badge/-Redux-61DAFB?style=flat&logo=redux&logoColor=white&color=764ABC" />
   <img alt="Vue" src="https://img.shields.io/badge/-Vue.js-61DAFB?style=flat&logo=vue.js&logoColor=white&color=2C8EBB" />
+  <img alt="FastAPI" src="https://img.shields.io/badge/-FastAPI-61DAFB?style=flat&logo=fastapi&logoColor=white&color=blue" />
   <img alt="Jest" src="https://img.shields.io/badge/-Jest-61DAFB?style=flat&logo=jest&logoColor=white&color=C21325" />
   <img alt="Nightwatch.js" src="https://img.shields.io/badge/-Nightwatch-61DAFB?style=flat&logo=nightwatch&logoColor=white&color=C21325" />
   <img alt="Material UI" src="https://img.shields.io/badge/-Material_UI-61DAFB?style=flat&logo=material-ui&logoColor=white&color=0081CB" />
