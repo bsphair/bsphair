@@ -2,7 +2,7 @@
 
 :necktie: Occupation is <b>software engineer</b>
 
-:round_pushpin: Located around <b>Gaithersburg, MD</b>
+:round_pushpin: Located around the <b>Washington, DC</b> region
 
 :telescope: Current <b>personal project</b> is an [Exercise Dashboard](https://github.com/bsphair/peloton_client)
 
@@ -15,10 +15,11 @@
 <h4>Languages</h4>
 <p>
   <img alt="HTML" src="https://img.shields.io/badge/-HTML-61DAFB?style=flat&logo=html5&logoColor=white&color=E34F26" />
-  <img alt="CSS" src="https://img.shields.io/badge/-CSS-61DAFB?style=flat&logo=css&logoColor=white&color=E34F26" />
+  <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-61DAFB?style=flat&logo=css3&logoColor=white&color=E34F26" />
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-61DAFB?style=flat&logo=javascript&logoColor=white&color=yellow" />
   <img alt="Python" src="https://img.shields.io/badge/-Python-61DAFB?style=flat&logo=python&logoColor=white&color=blue" />
   <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-61DAFB?style=flat&logo=mysql&logoColor=white&color=4479A1" />
+  <img alt="Kotlin" src="https://img.shields.io/badge/-Kotlin-61DAFB?style=flat&logo=kotlin" />
 </p>
 
 <h4>Frameworks/Libraries</h4>
@@ -26,6 +27,7 @@
   <img alt="React" src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white&color=61DAFB" />
   <img alt="Redux" src="https://img.shields.io/badge/-Redux-61DAFB?style=flat&logo=redux&logoColor=white&color=764ABC" />
   <img alt="Vue" src="https://img.shields.io/badge/-Vue.js-61DAFB?style=flat&logo=vue.js&logoColor=white&color=2C8EBB" />
+  <img alt="Cypress" src="https://img.shields.io/badge/-Cypress.js-61DAFB?style=flat&logo=cypress&logoColor=white&color=brightgreen" />
   <img alt="FastAPI" src="https://img.shields.io/badge/-FastAPI-61DAFB?style=flat&logo=fastapi&logoColor=white&color=blue" />
   <img alt="Jest" src="https://img.shields.io/badge/-Jest-61DAFB?style=flat&logo=jest&logoColor=white&color=C21325" />
   <img alt="Nightwatch.js" src="https://img.shields.io/badge/-Nightwatch-61DAFB?style=flat&logo=nightwatch&logoColor=white&color=C21325" />
@@ -42,7 +44,7 @@
   <img alt="NPM" src="https://img.shields.io/badge/-NPM-61DAFB?style=flat&logo=npm&logoColor=white&color=CB3837" />
   <img alt="Slack" src="https://img.shields.io/badge/-Slack-61DAFB?style=flat&logo=slack&logoColor=white&color=4A154B" />
   <img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack_Overflow-61DAFB?style=flat&logo=stack-overflow&logoColor=white&color=FE7A16" />
-
+  <img alt="Android Studio" src="https://img.shields.io/badge/-Android Studio-61DAFB?style=flat&logo=android-studio&logoColor=white&color=232F3E" />
   <img alt="Webstorm" src="https://img.shields.io/badge/-Webstorm-61DAFB?style=flat&logo=webstorm&logoColor=white&color=000000" />
   <img alt="Xcode" src="https://img.shields.io/badge/-Xcode-61DAFB?style=flat&logo=Xcode&logoColor=white&color=1575F9" />
   <img alt="Yarn" src="https://img.shields.io/badge/-Yarn-61DAFB?style=flat&logo=yarn&logoColor=white&color=2C8EBB" />
